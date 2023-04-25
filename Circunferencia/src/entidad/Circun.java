@@ -1,5 +1,5 @@
 /*Declarar una clase llamada Circunferencia que tenga como atributo privado el radio de tipo real. 
-A continuación, se deben crear los siguientes métodos:
+A continuación, se deben crear los siguientes métodos;
 Método constructor que inicialice el radio pasado como parámetro.
 Métodos get y set para el atributo radio de la clase Circunferencia.
 Método para crearCircunferencia(): que le pide el radio y lo guarda  en el atributo del objeto.
