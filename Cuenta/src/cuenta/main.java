@@ -19,6 +19,8 @@ public class main {
         cbs.extraccionRapida(cuenta1);
         cbs.consultarSaldo(cuenta1);
         cbs.consultarDatos(cuenta1); 
+        
+        System.out.println(cuenta1.toString());
     }
     
 }
