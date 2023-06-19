@@ -19,8 +19,8 @@ public class main {
         Persona people3 = gente.crearPersona();
         Persona people4 = gente.crearPersona();
         
-        gente.esMayorDeEdad(people);
-        gente.calcularIMC(people);
+        gente.esMayorDeEdad(people1);
+        gente.calcularIMC(people1);
         
  
         
